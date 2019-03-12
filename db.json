@@ -1,16 +1,10 @@
 {
   "streams": [
     {
-      "title": "MORE STREAMS!",
-      "description": "THE STREAMIEST!",
+      "title": "Streamy",
+      "description": "This is a stream.",
       "userId": "108042922352022560238",
-      "id": 2
-    },
-    {
-      "title": "Hello New",
-      "description": "Stuff.",
-      "userId": "108042922352022560238",
-      "id": 3
+      "id": 1
     }
   ]
 }
